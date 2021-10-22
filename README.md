@@ -27,7 +27,7 @@ Last but not least, you can reach me at <a href="mailto:cleiton0050cf@gmail.com"
 
 <h1>&#x1f4c8; My Github Stats</h1>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton366&hide=java&theme=highcontrast&exclude_repo=Simple-Front-End,to-do-app&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats) [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleiton366&theme=highcontrast&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cleiton366&hide=java&theme=highcontrast&exclude_repo=Simple-Front-End,to-do-app&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)[![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cleiton366&theme=highcontrast&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
