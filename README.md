@@ -2,7 +2,10 @@
 I'm a software engineering student at the Federal University of Ceará(UFC). I have academic experience with the technologies listed in the toolbox below. 
 I am currently focusing on Web Development, but I also like to code fews algos in C from time to time.
 I also like other topics besides coding. In my free time I usually read some random sci-fi book, watch some anime or try to catch up with my team on CS:GO.
-Last but not least, you can reach me at <a href="mailto:cleiton0050cf@gmail.com">cleiton0050cf@gmail.com</a>.
+Last but not least, you can reach me at:
+<br><br>
+<a href="mailto:cleiton0050cf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/cleiton-s-queiroz-b1526a1b8/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
 
