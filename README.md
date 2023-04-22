@@ -1,10 +1,8 @@
-<h1> Salve!! Salut!! Hi there!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
-I'm a software engineering student at the Federal University of Ceará(UFC). I have academic experience with the technologies listed in the toolbox below. 
-I am currently focusing on Web Development, but I also like to code fews algos in C from time to time.
-I also like other topics besides coding. In my free time I usually read some random sci-fi book, watch some anime or try to catch up with my team on CS:GO.
+<h1> Salve!! Salut!! Hi there!! Hola!! Hallo!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1> 
+I'm a Software Engineering student at the Universidade Federal do Ceará(UFC) and Software Developer. I have experience with the technologies listed in the toolbox below.
 Last but not least, you can reach me at:
 <br><br>
-<a href="mailto:cleiton0050cf@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:cleiton.s.queiroz@proton.me"><img src="https://img.shields.io/badge/-Email-%2523EA4335?style=for-the-badge&logo=email&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/cleiton-s-queiroz-b1526a1b8/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ---
@@ -18,10 +16,13 @@ Last but not least, you can reach me at:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/spring/spring-original.svg" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" height="50" width="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/kotlin/kotlin-original.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="50" width="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="50" width="50"/>
 
